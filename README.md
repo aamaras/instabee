@@ -23,4 +23,4 @@ Check for new deleted items and update beeminder:
 Check the sums add up:
 - get the unread count from beeminder
 - sum the unreads from instapaper
-- do something if they don't match (set the beeminder figure to zero and redo everything based on the current instapaper list?)
+- do something if they don't match (reset the beeminder figure to zero and redo everything based on the current instapaper list?)
